@@ -25,6 +25,8 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+/* Chatbot styling */
 /* client/src/styles/globals.css */
 .chatbot-window {
   transition: all 0.3s ease-in-out;
